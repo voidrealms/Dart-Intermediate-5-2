@@ -2,7 +2,7 @@
 
 main(List<String> arguments) {
 
-  List values = [1,2,3,4,5];
+  List<int> values = [1,2,3,4,5];
 
   print(add(10,values));
 
